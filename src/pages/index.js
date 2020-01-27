@@ -13,7 +13,7 @@ const IndexPage = () => (
       <li><a href="https://www.linkedin.com/in/allegranzi/">LinkedIn</a></li>
       <li><a href="https://github.com/1-8192">Github</a></li>
     </ul>
-    <Link to="/About/">About</Link>
+    <Link to="/AboutPage/">About</Link>
   </Layout>
 )
 
