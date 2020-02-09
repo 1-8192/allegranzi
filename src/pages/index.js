@@ -14,6 +14,7 @@ const IndexPage = () => (
       <li><a href="https://github.com/1-8192">Github</a></li>
     </ul>
     <Link to="/AboutPage/">About</Link>
+    <Link to="./blog/my-first-post">Blog</Link>
   </Layout>
 )
 
