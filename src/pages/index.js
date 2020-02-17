@@ -13,8 +13,9 @@ const IndexPage = () => (
       <li><a href="https://www.linkedin.com/in/allegranzi/">LinkedIn</a></li>
       <li><a href="https://github.com/1-8192">Github</a></li>
     </ul>
+    <h2>Blog Posts</h2>
+    <Link to="./blog/my-first-post">Ruby Merge Sort</Link>
     <Link to="/AboutPage/">About</Link>
-    <Link to="./blog/my-first-post">Blog</Link>
   </Layout>
 )
 
