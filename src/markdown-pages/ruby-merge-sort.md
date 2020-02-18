@@ -1,5 +1,5 @@
 ---
-path: "/blog/my-first-post"
+path: "/blog/ruby_merge_sort"
 date: "2020-02-08"
 title: "Merge Sort in Ruby"
 ---
