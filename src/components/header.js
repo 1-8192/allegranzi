@@ -11,8 +11,9 @@ const Header = ({ siteTitle }) => (
     <div
       style={{
         margin: `0 auto`,
-        maxWidth: 960,
+        maxWidth: '75ch',
         padding: `1.45rem 1.0875rem`,
+        display: 'inline',
       }}
     >
       <h1 style={{ margin: 0 }}>
@@ -25,7 +26,7 @@ const Header = ({ siteTitle }) => (
         >
           {siteTitle}
         </Link>
-        <Link to="/AboutPage/">About</Link>
+        <Link to="/AboutPage/" style={{ float: 'right', marginRight: 2}}>About</Link>
       </h1>
     </div>
   </header>

@@ -4,7 +4,7 @@ date: "2020-02-08"
 title: "Merge Sort in Ruby"
 ---
 ---
-![Ruby Logo](./images/blog/merge-sort/ruby_logo.png "Ruby Logo")
+![Ruby Logo](../images/blog/merge-sort/ruby_logo.png "Ruby Logo")
 
 Sorting is a basic and extremely key component of algorithm study. Many other/higher algorithms rely on sorted lists to work better, so placing things in the correct order creates the foundation for a lot of problem-solving. We're going to skip over the more direct insertion and selection sorts to something that performs a little better: the merge sort.
 
